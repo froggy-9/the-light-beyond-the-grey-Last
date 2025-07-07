@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/0. Scenes/1. Start.unity
+    guid: 5d9bf098000fc8a4f9e6f44c116b42f5
+  - enabled: 1
+    path: Assets/0. Scenes/1.1 LoadingStage.unity
+    guid: 49f82d8c7029a334888d50cb2189cde4
+  - enabled: 1
+    path: Assets/0. Scenes/1.2StoryStage.unity
+    guid: 649fd4028d414b843b7d259d49c47b3b
+  - enabled: 1
+    path: Assets/0. Scenes/2. StageChoose.unity
+    guid: 66b8687f2b1e7644c9fb995adca917cf
+  - enabled: 1
+    path: Assets/0. Scenes/3.2 TutorialStory.unity
+    guid: 062520ebb8e743d42b41ea378dfe953e
+  - enabled: 1
+    path: Assets/0. Scenes/3.1 Tutorialinfor.unity
+    guid: 8a751fb2a00fe484eb9f47baa5122754
+  - enabled: 1
+    path: Assets/0. Scenes/3. Tutorial.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/0. Scenes/4. FirstStage.unity
+    guid: 2a73260aa033751468bad028fb42ab47
+  - enabled: 1
+    path: Assets/0. Scenes/5. SecondStage.unity
+    guid: 02aa9084bada2d94dbbc6b59a071d3df
+  - enabled: 1
+    path: Assets/0. Scenes/6. ThirdStage.unity
+    guid: a7c37414eff0cae488491c62a804087e
+  - enabled: 1
+    path: Assets/0. Scenes/7. FourthStage.unity
+    guid: 6101a08c9acc58e429f8836288c2a222
+  - enabled: 1
+    path: Assets/0. Scenes/8. FifthStage.unity
+    guid: e96a0e1f69c3e624495aee962d2e1b41
+  - enabled: 1
+    path: Assets/0. Scenes/9. SixthStage.unity
+    guid: 09f7a4f2a0986e1429655168a57db001
+  - enabled: 1
+    path: Assets/0. Scenes/9.1 SixthStory.unity
+    guid: 4cbb50c01478bca418331b3a8e8ac961
+  - enabled: 1
+    path: Assets/0. Scenes/10. Ending.unity
+    guid: af38923531bedf04a8722e403159a3c3
+  - enabled: 1
+    path: Assets/0. Scenes/2.1  StoryScene.unity
+    guid: 9204117e407bd06429f20469923bd77a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: e06d7f440183e824b89f174a7ab775ca, type: 3}
+  m_UseUCBPForAssetBundles: 0
